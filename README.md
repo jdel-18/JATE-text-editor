@@ -19,4 +19,4 @@ This project can be used however you like!
 There is no test for this project.
 
 # Questions
-If you have any questions, visit my [!Github](https://github.com/jdel-18)
+If you have any questions, visit my [Github](https://github.com/jdel-18)
